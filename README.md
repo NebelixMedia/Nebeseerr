@@ -20,4 +20,4 @@
 
 ---
 ## This branch as the plan of implementing Nebelix branding into Jellyseerr.
-(Without removing Jellyseerr branding in a sign of reconnition)
+(Without removing Jellyseerr completely branding, of course, as a sign of recognition)
